@@ -5,6 +5,7 @@ mqtt_ultrasonic.ino
 
 Publish the distance that was measured using a HC-SR04.
 
+- https://www.switch-science.com/catalog/2860/
 
 Copyright and license
 ----
